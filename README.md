@@ -93,9 +93,9 @@
 <p align="left">
   <h3>🚀 Featured Projects</h3><br>
   <ul>
-    <li><a href="https://github.com/Vashu2003/AI-Code-Reviewer" target="_blank">AI Code Reviewer</a></li>
-    <li><a href="https://github.com/Vashu2003/HyperHive" target="_blank">HyperHive</a></li>
-    <li><a href="https://github.com/Vashu2003/MovieDB" target="_blank">Movie DB</a></li>
+    <li><a href="https://github.com/Nih-0/InsightIQ_Backend" target="_blank">Insight_IQ( AI Interview Analyzer )</a></li>
+    <li><a href="https://github.com/Nih-0/Ticket_Trade_BackEnd" target="_blank">TicktTrade</a></li>
+    <li><a href="https://github.com/Nih-0/CvXpert" target="_blank">CvXpert</a></li>
   </ul>
 </p>
 
