@@ -13,7 +13,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Nih-0&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nih-0&layout=compact&theme=github_dark&hide_border=true" height="150" />
+  
 </div>
 
 ###
